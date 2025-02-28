@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Petrenciuc Amelia\Documents\PG\OpenGL dev libs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\lab2\main.cpp(199,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\lab2\main.cpp(200,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\lab2\main.cpp(204,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\lab2\main.cpp(205,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\lab2\main.cpp(206,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\lab2\main.cpp(207,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\lab2\main.cpp(772,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+libglew32d.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'libglew32d.lib(glew.obj)' or at ''; linking object as if no debug info
+  lab2.vcxproj -> D:\Petrenciuc Amelia\Documents\PG\lab9Rzn\lab9\x64\Debug\lab2.exe

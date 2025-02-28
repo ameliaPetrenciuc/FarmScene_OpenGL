@@ -1,0 +1,23 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Petrenciuc Amelia\Documents\PG\OpenGL dev libs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\lab2\main.cpp(199,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\lab2\main.cpp(200,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\lab2\main.cpp(204,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\lab2\main.cpp(205,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\lab2\main.cpp(206,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\lab2\main.cpp(207,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\lab2\main.cpp(772,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating code
+  1964 of 1995 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    20 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lab2.vcxproj -> D:\Petrenciuc Amelia\Documents\PG\PetrenciucAmelia_gr30235_app\lab9\x64\Release\lab2.exe

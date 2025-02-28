@@ -1,0 +1,11 @@
+Model Information:
+* title:	Little Farmhouse
+* source:	https://sketchfab.com/3d-models/little-farmhouse-36d7b4eb02ae412182d505ee9db39c2c
+* author:	thatLorde (https://sketchfab.com/thatLorde)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Little Farmhouse" (https://sketchfab.com/3d-models/little-farmhouse-36d7b4eb02ae412182d505ee9db39c2c) by thatLorde (https://sketchfab.com/thatLorde) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
